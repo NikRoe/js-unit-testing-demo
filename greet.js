@@ -1,5 +1,5 @@
 export function greet(name = "stranger") {
-  if (name === "<YOUR-NAME>") {
+  if (name === "Niklas") {
     return "Hello coach!";
   }
 
